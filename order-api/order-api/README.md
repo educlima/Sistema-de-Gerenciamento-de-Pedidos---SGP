@@ -28,7 +28,7 @@ API REST para gerenciamento de pedidos, construída com **FastAPI**, com persist
 Pré-requisito: [Docker Desktop](https://www.docker.com/products/docker-desktop/) instalado e em execução.
 
 ```bash
-git clone https://github.com/SEU-USUARIO/order-api.git
+git clone https://github.com/educlima)
 cd order-api
 docker compose up --build
 ```
